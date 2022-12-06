@@ -1,0 +1,2 @@
+class HalfLife < ApplicationRecord
+end
